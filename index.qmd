@@ -28,7 +28,7 @@ toc: true
 - [我国金融监管发展历程](https://www.cnblogs.com/albertlei/articles/bank-regulation.html)
 - [A股市场离成熟的资本市场有多远？](https://www.cnblogs.com/albertlei/articles/14837935.html)
 - [资产定价中的因子大战](http://www.thfr.com.cn/wap/index-wap2.php?p=69962), Zhang Lu
-- [货币政策与资产泡沫](https://mp.weixin.qq.com/s?src=11&timestamp=1635928547&ver=3413&signature=YMveATCM*xha*q5AXqvs6TPNTSnkefn5WOZONMNPEnpVUS89W5ZWRnxXTgGxt05u5Rgd2wdRm9GK3MiqBS2HJ*UY3QDov4zzdhqy5-3WVqX1kc8LfQoRSpGWrXjUwZsp&new=1), Pengfei Wang
+- [货币政策与资产泡沫](https://thinktank.phbs.pku.edu.cn/2021/xuezheguandian_1214/47.html), Pengfei Wang
 
 ## 随堂小测试
 
