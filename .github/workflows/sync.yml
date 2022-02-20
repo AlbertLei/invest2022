@@ -27,3 +27,4 @@ jobs:
           gitee-password: ${{ secrets.GITEE_PASSWORD }}
           gitee-repo: albertlei/invest2022
           branch: master          
+          FOLDER: docs
