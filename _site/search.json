@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "post.html",
+    "href": "post.html",
+    "title": "Posts",
+    "section": "",
+    "text": "课程博客是上课内容的补充. 有些我在课堂上忘了说的话, 或另外看到和课程相关的内容, 会发布于此.\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\n2-20\n\n\nPost With Code\n\n\nThis is a post with executable code.\n\n\n\n\n2-17\n\n\nWelcome To My Blog\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#阅读资料",
+    "href": "index.html#阅读资料",
+    "title": "金融投资学",
+    "section": "阅读资料",
+    "text": "阅读资料\n\n教科书\n\n教材 (BKM) Essentials of Investments, by Bodie, Kane and Marcus. 英文版 PDF, 豆瓣\n推荐 (Fabozzi) Foundations of Global Financial Markets and Institutions, by Fabozzi. 英文版 epub, 豆瓣\n\nremark: 这本书涵盖的内容比 BKM 更多，是很多国外高校 MBA 金融入门课程的教材。BKM 基本只关注美国市场，这本书还介绍了包括中国在内的主要经济体的金融市场。\n\n推荐 (Malkiel) A Random Walk Down Wall Street, by Malkiel. 英文版 epub, 豆瓣\n\nremark: 这是一本金融畅销书，倡导长期投资和分散化（对个人投资者来说，这基本意味着长期持有指数基金）。\n\n选读 (Berk and DeMarzo) Corporate Finance, by Berk and DeMarzo. 英文版 PDF，豆瓣\n\nremark: 公司金融的入门书。中译本旧名《公司理财》, 现在一般多用“公司金融”这一称呼。\n\n\n\n\n通俗读物\n\n327国债期货与长期资本管理公司破产\n我国金融监管发展历程\nA股市场离成熟的资本市场有多远？\n资产定价中的因子大战, Zhang Lu\n货币政策与资产泡沫, Pengfei Wang"
+  },
+  {
+    "objectID": "index.html#随堂小测试",
+    "href": "index.html#随堂小测试",
+    "title": "金融投资学",
+    "section": "随堂小测试",
+    "text": "随堂小测试\n教师会不定期进行随堂小测试，它一般由以下三个问题组成：\n\n在阅读课本和课堂学习的过程中，你印象最深的 1-2 个知识点是什么？你觉得他们妙在哪？\n试着将上述知识点和实际生活联系起来，如新闻、学术论文、你的投资/个人经历。\n你在学习过程中感到困惑的 1-2 个知识点是什么？\n\n测验的目的在于巩固知识点，并和实际联系起来。不用担心，它不计分，这门课也没有考勤分。"
+  },
+  {
+    "objectID": "index.html#往年课程资料",
+    "href": "index.html#往年课程资料",
+    "title": "金融投资学",
+    "section": "往年课程资料",
+    "text": "往年课程资料\n\n去年的课程网站\n学有余力的同学可以看看去年的资料, 提前预习. 不看也没关系, 所有课程内容都会在这个网站发布"
+  },
+  {
+    "objectID": "about.html#前置知识",
+    "href": "about.html#前置知识",
+    "title": "课程说明",
+    "section": "前置知识",
+    "text": "前置知识\n这是一门现代金融学的入门课程。采用的教科书 BKM 是全球最受欢迎的两本金融学入门教材之一（另一本是 Berk 和 DeMarzo 的《公司金融》）。由于这是一门研究生课程，我默认大家已经学过宏观/ 微观经济学的相关内容，熟悉效用函数（无差异曲线）、供给和需求分析、央行和商业银行的基本职能等。此外，我默认同学们上过概率论/数理统计相关课程，了解随机变量、期望、相关系数和协方差等基本知识，这些内容对理解 CAPM 模型很关键。"
+  },
+  {
+    "objectID": "about.html#课程内容",
+    "href": "about.html#课程内容",
+    "title": "课程说明",
+    "section": "课程内容",
+    "text": "课程内容\n一共八周课，每周介绍一个主题。可能的主题包括：\n\n金融市场简介\n银行（商业银行和投资银行）\n资产组合理论\n资本资产定价模型 CAPM\nFame-French 多因子模型\n套利定价理论 (APT)\n债券市场\n期货与期权市场\n行为金融学\n量化投资\n等等…\n\n具体内容会根据同学的兴趣和实际教学进度做出调整。"
+  },
+  {
+    "objectID": "about.html#阅读资料",
+    "href": "about.html#阅读资料",
+    "title": "课程说明",
+    "section": "阅读资料",
+    "text": "阅读资料\n\n(必读) Investment, by Bodie, Kane and Marcus\n\n课程教材\n\n(推荐) Foundations of Global Financial Markets and Institutions, Fabozzi\n\n这本书涵盖的内容比 BKM 更多，是很多 MBA 课程金融入门课程的标准教材。建议阅读\n\n\n课程主页提供了这两本书电子版本的下载"
+  },
+  {
+    "objectID": "about.html#考核方式",
+    "href": "about.html#考核方式",
+    "title": "课程说明",
+    "section": "考核方式",
+    "text": "考核方式\n待定. 由同学们期末前讨论决定"
+  }
+]
