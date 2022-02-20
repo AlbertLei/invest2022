@@ -1,0 +1,29 @@
+name: Sync
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@master
+        env:
+          # Secrets 配置 GITEE_RSA_PRIVATE_KEY
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
+        with:
+          # GitHub 源仓库地址
+          source-repo: git@github.com:albertlei/invest2022.git
+          # Gitee 目标仓库地址
+          destination-repo: git@gitee.com:albertlei/invest2022.git
+
+      - name: Build Gitee Pages
+        uses: yanglbme/gitee-pages-action@main
+        with:
+          gitee-username: albertlei
+          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          gitee-repo: albertlei/invest2022
+          branch: master          
