@@ -1,0 +1,17 @@
+---
+title: "Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: false
+  filter-ui: false
+  sort-ui: false
+  fields: [date, title, description]
+  date-format: M-dd
+---
+
+课程博客是上课内容的补充. 
+有些我在课堂上忘了说的话,
+或另外看到和课程相关的内容,
+会发布于此. 

@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "金融投资学"
+  search: false
+  navbar:
+    background: primary
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+
+
+

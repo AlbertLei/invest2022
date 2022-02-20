@@ -1,0 +1,48 @@
+---
+toc: true
+---
+
+欢迎来到金融投资学课程网站, 本课程所有内容和资料均发布于此.
+
+- [课程说明](about.qmd)
+
+## 阅读资料
+
+### 教科书
+
+1. 教材 (BKM) *Essentials of Investments*, by Bodie, Kane and Marcus. [英文版 PDF](https://hlei.lanzouq.com/i9PW9ieksza), [豆瓣](https://book.douban.com/subject/5330997/)
+
+2. 推荐 (Fabozzi) *Foundations of Global Financial Markets and Institutions*, by Fabozzi. [英文版 epub](https://hlei.lanzoui.com/iB9Yypwsp6b), [豆瓣](https://book.douban.com/subject/3998477/)
+    - remark: 这本书涵盖的内容比 BKM 更多，是很多国外高校 MBA 金融入门课程的教材。BKM 基本只关注美国市场，这本书还介绍了包括中国在内的主要经济体的金融市场。
+
+3. 推荐 (Malkiel) *A Random Walk Down Wall Street*, by Malkiel. [英文版 epub](https://hlei.lanzoui.com/iGs6vpwsdxg), [豆瓣](https://book.douban.com/subject/10606457/)
+    - remark: 这是一本金融畅销书，倡导长期投资和分散化（对个人投资者来说，这基本意味着长期持有指数基金）。
+
+4. 选读 (Berk and DeMarzo) *Corporate Finance,* by Berk and DeMarzo. [英文版 PDF](https://hlei.lanzoui.com/iEhBJpx233g)，[豆瓣](https://book.douban.com/subject/3199985/)
+    - remark: 公司金融的入门书。中译本旧名[《公司理财》](https://book.douban.com/subject/4152457/), 现在一般多用“公司金融”这一称呼。
+
+
+### 通俗读物
+
+- [327国债期货与长期资本管理公司破产](https://www.cnblogs.com/albertlei/articles/2events.html)
+- [我国金融监管发展历程](https://www.cnblogs.com/albertlei/articles/bank-regulation.html)
+- [A股市场离成熟的资本市场有多远？](https://www.cnblogs.com/albertlei/articles/14837935.html)
+- [资产定价中的因子大战](http://www.thfr.com.cn/wap/index-wap2.php?p=69962), Zhang Lu
+- [货币政策与资产泡沫](https://mp.weixin.qq.com/s?src=11&timestamp=1635928547&ver=3413&signature=YMveATCM*xha*q5AXqvs6TPNTSnkefn5WOZONMNPEnpVUS89W5ZWRnxXTgGxt05u5Rgd2wdRm9GK3MiqBS2HJ*UY3QDov4zzdhqy5-3WVqX1kc8LfQoRSpGWrXjUwZsp&new=1), Pengfei Wang
+
+## 随堂小测试
+
+教师会不定期进行随堂小测试，它一般由以下三个问题组成：
+
+1. 在阅读课本和课堂学习的过程中，你印象最深的 1-2 个知识点是什么？你觉得他们妙在哪？
+1. 试着将上述知识点和实际生活联系起来，如新闻、学术论文、你的投资/个人经历。
+1. 你在学习过程中感到困惑的 1-2 个知识点是什么？
+
+测验的目的在于巩固知识点，并和实际联系起来。不用担心，它不计分，这门课也没有考勤分。
+
+## 往年课程资料
+
+- [去年的课程网站](https://www.cnblogs.com/albertlei/p/invest21.html)
+
+- 学有余力的同学可以看看去年的资料, 提前预习.
+  不看也没关系, 所有课程内容都会在这个网站发布

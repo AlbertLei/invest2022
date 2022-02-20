@@ -1,0 +1,6 @@
+---
+title: "Post With Code"
+date: "2/20/2022"
+---
+
+This is a post with executable code.
