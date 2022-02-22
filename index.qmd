@@ -8,6 +8,11 @@ toc: true
 
 ## 阅读资料
 
+- 0221: introduction [PPT](https://hlei.lanzouq.com/ibeCH00hgy9c)
+- 0223: course introduction [PPT](https://hlei.lanzouq.com/inCRg00hgyad)
+
+
+
 ### 教科书
 
 1. 教材 (BKM) *Essentials of Investments*, by Bodie, Kane and Marcus. [英文版 PDF](https://hlei.lanzouq.com/i9PW9ieksza), [豆瓣](https://book.douban.com/subject/5330997/)
